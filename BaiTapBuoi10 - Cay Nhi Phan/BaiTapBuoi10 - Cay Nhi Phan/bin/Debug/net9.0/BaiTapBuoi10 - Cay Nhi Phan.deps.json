@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BaiTapBuoi10 - Cay Nhi Phan/1.0.0": {
+        "runtime": {
+          "BaiTapBuoi10 - Cay Nhi Phan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapBuoi10 - Cay Nhi Phan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
