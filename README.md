@@ -1,4 +1,4 @@
-# LinqConsoleExample
+# Binary Search Tree
 A simple C# project illustrating the binary tree algorithm in a console app.
 
 ## Introduction
