@@ -2,8 +2,9 @@
 A simple C# project illustrating the binary tree algorithm in a console app.
 
 ## Introduction
-Dự án này minh họa cách sử dụng Cây Nhị Phân Tìm Kiếm trong C#. Nó bao gồm các ví dụ về sắp xếp, thêm dữ liệu và duyệt phần tử.
-![image](https://github.com/user-attachments/assets/8578c23e-71ad-4725-8bed-4dcd9ac3da7a)
+This project illustrates how to use a Binary Search Tree in C#. It includes examples of sorting, adding data, and traversing elements.
+![image](https://github.com/user-attachments/assets/26857e10-31ef-4800-9bbb-935cfbfee035)
+
 
 
 ## How to Run
